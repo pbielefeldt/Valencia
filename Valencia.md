@@ -6,6 +6,7 @@
 * [Seidenbörse](www.museosymonumentosvalencia.com)/Llotja de la Seda (Mo.–Sa. 10–19, So. 10–14)
 * [Stadt der Künste und der Wissenschaften](http://www.cac.es/)
 * [Mercado Central](http://www.mercadocentralvalencia.es/)
+* Sporthafen/[America's-Cup](http://www.valencia-cityguide.com/tourist-attractions/monuments/port-americas-cup.html)-Gebäude und [-Museum](http://www.valenciavalencia.com/sights-guide/museums-listings/americascup.htm)
 
 ## Museen
 * [Museo Fallero](www.fallas.com) (tägl. 10–19, So. 10–14)
