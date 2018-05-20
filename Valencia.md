@@ -21,6 +21,19 @@
   * Eigentlich eine Teil von Malvarrosa
   * Historisches Seebad
 
+## Stadviertel
+* Ensanche
+  * Jugendstilbauten, Jahrhundertwende-Modernismo im Schachbrettmuster
+  * Mercado de Colón
+  * Iglesia San Juan y San Vicente: Ein Haus als Kirche :-)
+  * Cafés auf der Via Merqués del Turia & del Comte d'Altea (z.B. das Aquarium)
+  * Rundgang:
+    * [Jardines](https://www.openstreetmap.org/relation/3549092) del Turia
+    * [Plaça](https://www.openstreetmap.org/way/19873367) de Cánovas del Castillo
+    * [Calle](https://www.openstreetmap.org/node/4930502124) del Comte d'Altea
+    * Mercado de [Colón](https://www.openstreetmap.org/way/10120283)
+    * Parroquia [de San Juan y San Vicente](https://www.openstreetmap.org/way/495750409)
+
 ## Ausgehen
 * El Carmen
 * Ruzafa
