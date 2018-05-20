@@ -12,6 +12,14 @@
 * [Wissenschaftsmuseum](www.cac.es) (tägl. 10–21)
 * [Stierkampfmuseum](www.museotaurinovalencia.es)? (Di.–Sa. 10–19, So. 10–14)
 
+## Strand
+* Playa de la Malvarrosa
+  * Hippie-Markz
+  * El Cabañal (Fischerdorf)
+* Playa de las Arenas
+  * Eigentlich eine Teil von Malvarrosa
+  * Historisches Seebad
+
 ## Ausgehen
 * El Carmen
 * Ruzafa
