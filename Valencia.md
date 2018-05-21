@@ -3,7 +3,8 @@
 
 ## Sehenswürdigkeiten
 * Kathedrale ([Museum](www.museocatedralvalencia.com), Führungen 10–17:30)
-* [Seidenbörse](www.museosymonumentosvalencia.com)/Llotja de la Seda (Mo.–Sa. 10–19, So. 10–14)
+  * Miquelete: Kirchturm
+* [Seidenbörse](www.museosymonumentosvalencia.com)/Llotja de la Seda, Weltkulturerbe (Mo.–Sa. 10–19, So. 10–14)
 * [Stadt der Künste und der Wissenschaften](http://www.cac.es/)
 * [Mercado Central](http://www.mercadocentralvalencia.es/)
 
@@ -19,6 +20,9 @@
 * Playa de las Arenas
   * Eigentlich eine Teil von Malvarrosa
   * Historisches Seebad
+* Playa de Calblanque
+  * Laut Merian der »einer der schönsten Badeplätze der Costa Blanca«
+  * Allerdings sehr weit weg, hinter Alicante
 
 ## Ausgehen
 * El Carmen
