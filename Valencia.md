@@ -9,6 +9,7 @@
 * Estación del Norte?
 * [Stadt der Künste und der Wissenschaften](http://www.cac.es/)
 * [Mercado Central](http://www.mercadocentralvalencia.es/)
+* Sporthafen/[America's-Cup](http://www.valencia-cityguide.com/tourist-attractions/monuments/port-americas-cup.html)-Gebäude und [-Museum](http://www.valenciavalencia.com/sights-guide/museums-listings/americascup.htm)
 
 ## Museen
 * [Museo Fallero](www.fallas.com) (tägl. 10–19, So. 10–14)
@@ -25,10 +26,28 @@
 * Playa de Calblanque
   * Laut Merian der »einer der schönsten Badeplätze der Costa Blanca«
   * Allerdings sehr weit weg, hinter Alicante
+  
+## Stadviertel
+* Ensanche
+  * Jugendstilbauten, Jahrhundertwende-Modernismo im Schachbrettmuster
+  * Mercado de Colón
+  * Iglesia San Juan y San Vicente: Ein Haus als Kirche :-)
+  * Cafés auf der Via Merqués del Turia & del Comte d'Altea (z.B. das Aquarium)
+  * Rundgang:
+    * [Jardines](https://www.openstreetmap.org/relation/3549092) del Turia
+    * [Plaça](https://www.openstreetmap.org/way/19873367) de Cánovas del Castillo
+    * [Calle](https://www.openstreetmap.org/node/4930502124) del Comte d'Altea
+    * Mercado de [Colón](https://www.openstreetmap.org/way/10120283)
+    * Parroquia [de San Juan y San Vicente](https://www.openstreetmap.org/way/495750409)
+* Ruzafa
+  * Stierkampfarena Plaza de Toros de Valencia & Museo Taurino
+  * Iglesia Parroquial de San Valero y San Vicente Mártir
+  * …
 
 ## Ausgehen
 * El Carmen
 * Ruzafa
+  * Ubik Café
 * [Orxata de Xufes](https://de.wikipedia.org/wiki/Horchata) @ Horchatería Santa Catalina (Plaza Santa Catalina 6)
 * Agua de Valencia @ Plaza de la Virgen
 * Tapas @ Los Escalones de la Lonja
