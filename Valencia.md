@@ -26,7 +26,7 @@
 * Playa de Calblanque
   * Laut Merian der »einer der schönsten Badeplätze der Costa Blanca«
   * Allerdings sehr weit weg, hinter Alicante
-
+  
 ## Stadviertel
 * Ensanche
   * Jugendstilbauten, Jahrhundertwende-Modernismo im Schachbrettmuster
