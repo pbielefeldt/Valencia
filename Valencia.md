@@ -39,10 +39,15 @@
     * [Calle](https://www.openstreetmap.org/node/4930502124) del Comte d'Altea
     * Mercado de [Colón](https://www.openstreetmap.org/way/10120283)
     * Parroquia [de San Juan y San Vicente](https://www.openstreetmap.org/way/495750409)
+* Ruzafa
+  * Stierkampfarena Plaza de Toros de Valencia & Museo Taurino
+  * Iglesia Parroquial de San Valero y San Vicente Mártir
+  * …
 
 ## Ausgehen
 * El Carmen
 * Ruzafa
+  * Ubik Café
 * [Orxata de Xufes](https://de.wikipedia.org/wiki/Horchata) @ Horchatería Santa Catalina (Plaza Santa Catalina 6)
 * Agua de Valencia @ Plaza de la Virgen
 * Tapas @ Los Escalones de la Lonja
