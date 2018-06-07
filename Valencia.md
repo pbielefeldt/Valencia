@@ -2,24 +2,29 @@
 ========
 
 ## Sehenswürdigkeiten
-* Kathedrale ([Museum](www.museocatedralvalencia.com), Führungen 10–17:30)
+* Kathedrale ([Museum](hhtp://www.museocatedralvalencia.com), Führungen 10–17:30)
   * Miquelete: Kirchturm
   * Plaza de la Reina
-* [Seidenbörse](www.museosymonumentosvalencia.com)/Llotja de la Seda, Weltkulturerbe (Mo.–Sa. 10–19, So. 10–14)
+* [Seidenbörse](http://www.museosymonumentosvalencia.com)/Llotja de la Seda, Weltkulturerbe (Mo.–Sa. 10–19, So. 10–14)
 * Estación del Norte?
 * [Stadt der Künste und der Wissenschaften](http://www.cac.es/)
 * [Mercado Central](http://www.mercadocentralvalencia.es/)
 * Sporthafen/[America's-Cup](http://www.valencia-cityguide.com/tourist-attractions/monuments/port-americas-cup.html)-Gebäude und [-Museum](http://www.valenciavalencia.com/sights-guide/museums-listings/americascup.htm)
+* Stadttore
+* Turia (Park) – im Süden, bei der Stadt der Wissenschaften
+* Banos de Almirante
 
 ## Museen
 * [Museo Fallero](www.fallas.com) (tägl. 10–19, So. 10–14)
 * [Wissenschaftsmuseum](www.cac.es) (tägl. 10–21)
 * [Stierkampfmuseum](www.museotaurinovalencia.es)? (Di.–Sa. 10–19, So. 10–14)
+* Palacio del Marqués de Dos Aquas (das Haus ist schön)
 
 ## Strand
 * Playa de la Malvarrosa
   * Hippie-Markz
   * El Cabañal (Fischerdorf)
+  * Vera: Netter, weil leerer, mehr Einheimische
 * Playa de las Arenas
   * Eigentlich eine Teil von Malvarrosa
   * Historisches Seebad
@@ -43,8 +48,13 @@
   * Stierkampfarena Plaza de Toros de Valencia & Museo Taurino
   * Iglesia Parroquial de San Valero y San Vicente Mártir
   * …
+* Albuferra: 
+  * Da gibt es die originale Paella
+  * Egal welcher Laden, da halt …
+  * Mit dem Fahrrad?
 
 ## Ausgehen
+* Christopher seine Restaurantempfehlung …
 * El Carmen
 * Ruzafa
   * Ubik Café
