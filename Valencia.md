@@ -8,6 +8,7 @@
 * [Seidenbörse](http://www.museosymonumentosvalencia.com)/Llotja de la Seda, Weltkulturerbe (Mo.–Sa. 10–19, So. 10–14)
 * Estación del Norte?
 * [Stadt der Künste und der Wissenschaften](http://www.cac.es/)
+  * Ozeaneum [L’Oceanogràfic](https://de.wikipedia.org/wiki/L%E2%80%99Oceanogr%C3%A0fic)
 * [Mercado Central](http://www.mercadocentralvalencia.es/)
 * Sporthafen/[America's-Cup](http://www.valencia-cityguide.com/tourist-attractions/monuments/port-americas-cup.html)-Gebäude und [-Museum](http://www.valenciavalencia.com/sights-guide/museums-listings/americascup.htm)
 * Stadttore
